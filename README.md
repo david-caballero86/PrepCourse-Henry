@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo2 de henry
+esto es una prueba de como clonar un repositorio desde github(nube) a mi escritorio (trabajar sin estar en linea)..
+
